@@ -1,0 +1,10 @@
+{
+    "htp":{
+        "subtitle": "Press and Hold on the white ball and then pull in the opposite direction of where you would like to aim and release",
+        "1": "1. If you pot a ball of your player's colour, you get +10 score and an extra turn",
+        "2": "2. If you pot a ball of the opposite player's colour, you get -10 score and opposite player gets + 10 score and your turn is skipped",
+        "3": "3. If you pot the white or black ball, game ends and the opposite player wins",
+        "4": "4. Failure to pot any ball skips your turn to the next player",
+        "5": "5. First to get to get to 50 score wins"
+    }
+}
